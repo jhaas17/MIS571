@@ -14,7 +14,7 @@ Our goal is to design a database for our fitness studio to keep a better overvie
 - Employee performance: The database will keep track of the number of memberships sold by each employee which will give the manager concrete statistics to reward outstanding employees and to focus on improving the performance of underperforming employees.
 
 ### Conceptual Model 
-![Alt text](Fitness_Studio/images/ConceptualModel.png?raw=true "Optional Title")
+![Alt text](/images/ConceptualModel.png?raw=true "Optional Title")
 
 
 
