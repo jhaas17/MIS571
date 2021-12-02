@@ -1,7 +1,7 @@
 # MIS571 Fitness Studio Database
 
 ## Group Members
-    Arushi Vyas, Hamidullah Sakhi, Jannik Haas, Raymond Magambo, Ruyun Chen
+   Arushi Vyas, Hamidullah Sakhi, Jannik Haas, Raymond Magambo, Ruyun Chen
 
 ## Problem Description
 Our goal is to design a database for our fitness studio to keep a better overview of our accounts and memberships. The fitness studio offers a variety of daily classes and offers different membership options with varying number of classes that members are allowed to take. The studio also sells retail merchandise such as T-shirts, water bottles, sweatshirts, etc. We will also need to keep track of our employees which include salespeople and instructors. 
